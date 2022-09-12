@@ -1,1 +1,1 @@
-# Face-Mask-Detector
+Face mask detector using Convolutional Neural Network
